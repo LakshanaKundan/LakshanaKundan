@@ -1,3 +1,4 @@
+<img src="https://img.freepik.com/free-vector/remote-work-concept_107791-29712.jpg" width="100%">
 <h1 align="center">Hi 👋, I'm Lakshana Kundan <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90"> </h1>
 
 <h3 align="center">Code, Learn, Innovate | Aspiring Software Developer</h3>
