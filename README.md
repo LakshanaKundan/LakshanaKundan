@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lakshana Kundan</h1>
+<h1 align="center">Hi 👋, I'm Lakshana Kundan <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90"> </h1>
+
 <h3 align="center">Code, Learn, Innovate | Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshanakundan&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanakundan" /> </p>
