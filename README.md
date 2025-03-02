@@ -1,10 +1,6 @@
 <img src="https://i.pinimg.com/originals/94/d1/7e/94d17e25dba0111b8c6f737b6083e234.gif" width="100%" height = "400">
-
-<!-- <--https://img.freepik.com/free-vector/remote-work-concept_107791-29712.jpg--> -->
 <h1 align="center">Hi 👋, I'm Lakshana Kundan <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="90"> </h1>
-
 <h3 align="center">Code, Learn, Innovate | Aspiring Software Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshanakundan&label=Profile%20views&color=0e75b6&style=flat" alt="lakshanakundan" /> </p>
 
 - 🌱 I’m currently learning **Go-Lang 🌱**
