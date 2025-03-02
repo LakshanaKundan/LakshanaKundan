@@ -27,34 +27,24 @@
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-## 🚀 Connect with me 🤝
+
 
 ## 🚀 Connect with me 🤝
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/lakshana-kundan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/LakshanaKundan" target="blank">
-    <img align="center" src="https://img.icons8.com/glyph-neue/40/000000/github.png" alt="GitHub" height="30" width="40"/>
-  </a>
-
-  <!-- GeeksforGeeks -->
-  <a href="https://www.geeksforgeeks.org/user/y69793wc/?ref=header_profile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
+  <a href="https://www.linkedin.com/in/lakshana-kundan/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/kundan_lakshana/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
   </a>
 
-  <!-- Instagram -->
-  <a href="https://instagram.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/40/000000/instagram-new.png" alt="Instagram" height="30" width="40"/>
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/user/y69793wc/?ref=header_profile" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
   </a>
 </p>
 
